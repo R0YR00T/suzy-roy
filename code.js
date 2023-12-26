@@ -6,7 +6,3 @@ function change() {
 }
 
 item.addEventListener("mouseover", change);
-
-console.log(window.innerWidth);
-console.log(screen.innerWidth);
-console.log(VisualViewport.innerWidth);
